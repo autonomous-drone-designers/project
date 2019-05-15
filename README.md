@@ -34,3 +34,5 @@ Examples of path prediction:
 
 The project can be further extended to other rotational angles of the UAV, i.e., pitch and roll.
 
+# Acknowledgements
+Most codes have been cloned from the GitHub repository GeorgeSeif/Semantic-Segmentation-Suite: https://github.com/GeorgeSeif/Semantic-Segmentation-Suite
